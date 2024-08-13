@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="레이어_2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="c" data-name="레이어_2">
+    <g>
+      <circle cx="8" cy="8" r="7.5" fill="#fff"/>
+      <path d="M8,1c3.86,0,7,3.14,7,7s-3.14,7-7,7S1,11.86,1,8,4.14,1,8,1M8,0C3.582,0,0,3.582,0,8s3.582,8,8,8,8-3.582,8-8S12.418,0,8,0h0Z"/>
+    </g>
+  </g>
+</svg>
